@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Azure.
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- ⚡ Fun fact: ...
-
 
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C5%9Feyma-cengiz-348733131/) 
