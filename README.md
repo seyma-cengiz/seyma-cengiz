@@ -1,4 +1,4 @@
-### Hi there 👋
+### Cześć👋
 
 - 🌱 I’m currently learning Azure.
 
