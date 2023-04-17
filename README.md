@@ -20,8 +20,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-<img align="left" width="450" height="160" src="https://github-readme-stats.vercel.app/api?username=seyma-cengiz&line_height=18&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyma-cengiz&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+<img align="left" width="450" height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=seyma-cengiz&line_height=18&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seyma-cengiz&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
